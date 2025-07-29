@@ -1,2 +1,2 @@
 # 1nventory
-1st repository, 1st to be completed project/program, the beginning.
+my first repository, soon to be completed project. Marking the beginning of the new era.
